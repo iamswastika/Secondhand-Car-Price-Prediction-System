@@ -1,2 +1,2 @@
 # Secondhand-Car-Price-Prediction-System
-A system that predicts the price of secondhand cars being based on various features. Different Machine Learning Models has been trained on the data (Random Forest Regression, Bagging Regression, Linear Regression, etc.).
+A system that predicts the price of secondhand cars based on various features. Different Machine Learning Models (Random Forest Regression, Bagging Regression, and Linear Regression) have been trained on the data.
